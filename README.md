@@ -1,3 +1,5 @@
+DEMO[https://eugenesherepa.github.io/layout_miami/]
+
 # Miami landing page
 
 In this task, you will learn how to implement a landing page. To do that:
